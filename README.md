@@ -1,2 +1,7 @@
 # Table
 test table
+
+| Nama API                      |                 Developer                 |                                                URL                                                 | Status  | Deskripsi                                                                                                                                                        |  `Auth`  |
+| ----------------------------- | :---------------------------------------: | :------------------------------------------------------------------------------------------------: | :-----: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------: |
+| Al Quran With Smart Assistant | [rizki4106](https://github.com/rizki4106) | [Link](https://www.bluenetid.com/documentation/MTE=?code=MTAtQWxRdXJhbldpdGhTbWFydEFzc2lzdGFudA==) | `Aktif` | Menerapkan Algoritma Machine learning untuk memudahkan pencarian ayat didalam alquran                                                                            | `apikey` |
+| Quran API                     |                 rzkytmgr                  |                           [Link](https://github.com/rzkytmgr/quran-api)                            | `Aktif` | quran api dengan custom imam recitation/murottal                                                                                                                 |  Tidak   |
